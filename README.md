@@ -7,7 +7,7 @@ For comparison, other excellent tools that try to do the same thing include RAxM
 
 Input data is provided in the form a a standard FASTA (https://en.wikipedia.org/wiki/FASTA_format) or similar format, and output phylogenies are produced by HPA in the Newick format (https://en.wikipedia.org/wiki/Newick_format). HPA can estimate branch lengths and do bootstrapping to estimate confidence of its results.
 
-HPA is conceptually simple compared to many alternatives. HPA also runs fairly quickly and is memory efficient, often doing jobs in the same time and memory as alternative C programs, while returning comparable results.
+HPA is conceptually simple compared to many alternatives and also fairly efficient. Even though this implementation of HPA is in the Python programming language, a language not noted for speed or memory efficiency, it runs fairly quickly and can often do jobs in the same time and memory as alternative C programs while returning comparable results.
 
 ## Authors
 HPA was conceived and implemented by Guy Hoelzer, Associate Professor of Biology at the University of Nevada, Reno, and his student Rich Drewes.
