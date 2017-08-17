@@ -1,9 +1,9 @@
 # hpa
 Hierarchical Partition Analysis tool for Phylogenetic Estimation
 
-HPA is a new technique for estimating a phylogeny (an evolutionary tree) based on input genetic sequence data from a set of taxa. This github contains code for a sample implementation of HPA written in the popular programming language Python (http://www.python.org).
+HPA is a new technique for estimating a phylogeny (an evolutionary tree) based on input genetic sequence data from a set of taxa. This github contains code for a sample implementation of HPA written in the popular programming language [Python] (http://www.python.org).
 
-For comparison, other excellent tools that try to do the same thing include RAxML (https://sco.h-its.org/exelixis/web/software/raxml/index.html) and PAUP\* (http://paup.sc.fsu.edu/).
+For comparison, other excellent tools that try to do the same thing include [RAxML] (https://sco.h-its.org/exelixis/web/software/raxml/index.html) and [PAUP\*] (http://paup.sc.fsu.edu/).
 
 Input data is provided in the form a a standard FASTA (https://en.wikipedia.org/wiki/FASTA_format) or similar format, and output phylogenies are produced by HPA in the Newick format (https://en.wikipedia.org/wiki/Newick_format). HPA can estimate branch lengths and do bootstrapping to estimate confidence of its results.
 
