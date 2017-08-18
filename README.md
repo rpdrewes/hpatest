@@ -11,6 +11,8 @@ HPA is conceptually simple compared to many alternatives and also fairly efficie
 ## Authors
 HPA was conceived and implemented by Guy Hoelzer, Associate Professor of Biology at the University of Nevada, Reno, and his student Rich Drewes.
 
+For information about the code or this github repository, contact Rich Drewes at drewes@interstice.com .
+
 ## Dependencies
 
 * (required) [Dendropy](https://github.com/jeetsukumaran/DendroPy)
